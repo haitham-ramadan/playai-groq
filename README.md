@@ -1,6 +1,7 @@
 # Groq PlayAI TTS - Arabic & English
 
 Simple Jupyter Notebook examples for using Groq's PlayAI Text-to-Speech API with Arabic and English voices.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://githubtocolab.com/haitham-ramadan/playai-groq/blob/main/GROQ-TTS-playai.ipynb)
 
 ## 🚀 Quick Start
 
